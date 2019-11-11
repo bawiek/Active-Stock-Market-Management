@@ -3,10 +3,10 @@ NASDAQ Technical and fundamental analysis, and prediction of beating the index o
 
 
 # Data
-#### Data from WRDS and analysis process in another file
-#### Variables includes: 
+#### Data from WRDS and analysis process in another file.
+## Variables includes: 
 
-## Fondamentals: 
+### Fondamentals: 
     # Yield quarter
     # marge de profit
     # P/E
@@ -18,7 +18,7 @@ NASDAQ Technical and fundamental analysis, and prediction of beating the index o
     # % shares issued
     # % shares repurchased
 
-## Technical:
+### Technical:
     # Price variation
     # Momentum 3 months
     # Momentum 6 months
