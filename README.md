@@ -2,8 +2,11 @@
 NASDAQ Technical and fundamental analysis, and prediction of beating the index over the coming year
 
 
-#### Data from WRDS and process in another file
-##Fondamentals: 
+# Data
+#### Data from WRDS and analysis process in another file
+#### Variables includes: 
+
+## Fondamentals: 
     # Yield quarter
     # marge de profit
     # P/E
@@ -21,3 +24,9 @@ NASDAQ Technical and fundamental analysis, and prediction of beating the index o
     # Momentum 6 months
     # Median quarter
     # Beat median
+
+# Models
+    # Random forest
+    # Gradient Boosting
+    # Linear Support Vector Classification
+ The prodiction can be quickly impove by using another imputer (mean imputations were used) and with a model tunnning.
